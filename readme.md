@@ -1,1 +1,1 @@
-![introduction poster](poster/LLM_research_poster.jpg)
+![introduction poster](poster.jpg)
