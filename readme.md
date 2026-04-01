@@ -1,3 +1,3 @@
 <p align="center">
-<img src="poster.jpg"  alt="" align=center />
+<img src="LLMposter.png"  alt="" align=center />
 </p>
